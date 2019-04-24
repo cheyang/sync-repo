@@ -91,4 +91,8 @@ gcr.io/google_containers/zeppelin
 gcr.io/google_containers/busybox
 gcr.io/google_containers/coredns
 
-
+gcr.io/linkerd-io/proxy
+gcr.io/linkerd-io/grafana
+gcr.io/linkerd-io/proxy-init
+gcr.io/linkerd-io/web
+gcr.io/linkerd-io/controller
