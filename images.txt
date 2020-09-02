@@ -28,6 +28,10 @@ gcr.io/linkerd-io/proxy-init=registry.cn-hangzhou.aliyuncs.com/linkerd-io-mirror
 gcr.io/linkerd-io/proxy=registry.cn-hangzhou.aliyuncs.com/linkerd-io-mirror/proxy
 gcr.io/linkerd-io/web=registry.cn-hangzhou.aliyuncs.com/linkerd-io-mirror/web
 
+gcr.io/jenkinsxio/builder-jx
+gcr.io/jenkinsxio/builder-go-maven
+gcr.io/jenkinsxio/builder-go
+
 k8s.gcr.io/addon-resizer
 k8s.gcr.io/busybox
 k8s.gcr.io/cluster-autoscaler
